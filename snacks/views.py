@@ -7,4 +7,4 @@ class HomeView(TemplateView):
     template_name = 'snacks-home.html'
 
 class AboutView(TemplateView):
-    template_name = 'snacks-about.html'
+    template_name = 'snacks-about.html' #nice
