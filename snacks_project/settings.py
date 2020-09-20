@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'snacks.apps.SnacksConfig'
+    'snacks.apps.SnacksConfig',
+    'coffee.apps.CoffeeConfig'
 ]
 
 MIDDLEWARE = [
